@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="back.gif" alt="MasterHead" style="height: 300px; display: block; margin: 0 auto;" />
+  <img src="back.gif" alt="MasterHead" style="height: 200px; display: block; margin: 0 auto;" />
 </p>
 
 
