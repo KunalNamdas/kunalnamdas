@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="back.gif" alt="MasterHead" style="height: 400px; display: block; margin: 0 auto;" />
+  <img src="back.gif" alt="MasterHead" style="height: 300px; display: block; margin: 0 auto;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kunal Namdas</h1>
