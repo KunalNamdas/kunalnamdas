@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="programmer.gif" alt="MasterHead" style="height: 200px; display: block; margin: 0 auto;" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Kunal Namdas</h1>
 <h3 align="center">System Engineer | Penetration Tester | DevOps Engineer | Certified Ethical Hacking Master</h3>
 <img align="right" alt="Coding" width="370" src="back.gif">
