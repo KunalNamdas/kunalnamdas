@@ -1,21 +1,16 @@
-<p align="center">
-  <img src="programmer.gif" alt="MasterHead" style="height: 200px; display: block; margin: 0 auto;" />
-</p>
-
-
 <h1 align="center">Hi 👋, I'm Kunal Namdas</h1>
 <h3 align="center">System Engineer | Penetration Tester | DevOps Engineer | Certified Ethical Hacking Master</h3>
-<img align="right" alt="Coding" width="350" src="back.gif">
+<img align="right" alt="Coding" width="450" src="programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalnamdas&label=Profile%20views&color=0e75b6&style=flat" alt="kunalnamdas" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://kunalnamdas.github.io/kunaalnamdas/](https://kunalnamdas.github.io/kunaalnamdas/)
+- 👨‍💻 All my projects are available in my [portfolio](https://kunalnamdas.github.io/kunaalnamdas/).
 
 - 💬 Ask me about **Ethical Hacking And DevOps Things**
 
 - 📫 How to reach me **kunaalnamdas@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vcIvLAU3iVPOMTA4oXLKZ9UImZfpaepx/view](https://drive.google.com/file/d/1vcIvLAU3iVPOMTA4oXLKZ9UImZfpaepx/view)
+- 📄Explore my experiences [here](https://drive.google.com/file/d/1vcIvLAU3iVPOMTA4oXLKZ9UImZfpaepx/view).
 
 - ⚡ Fun fact **"Encryption is the secret love language of computers."**
 
