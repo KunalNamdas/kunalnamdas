@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="back.gif" alt="MasterHead" style="height: 200px; display: block; margin: 0 auto;" />
+  <img src="programmer.gif" alt="MasterHead" style="height: 200px; display: block; margin: 0 auto;" />
 </p>
 
 
 <h1 align="center">Hi 👋, I'm Kunal Namdas</h1>
 <h3 align="center">System Engineer | Penetration Tester | DevOps Engineer | Certified Ethical Hacking Master</h3>
-<img align="right" alt="Coding" width="370" src="programmer.gif">
+<img align="right" alt="Coding" width="370" src="back.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalnamdas&label=Profile%20views&color=0e75b6&style=flat" alt="kunalnamdas" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vcIvLAU3iVPOMTA4oXLKZ9UImZfpaepx/view](https://drive.google.com/file/d/1vcIvLAU3iVPOMTA4oXLKZ9UImZfpaepx/view)
 
-- ⚡ Fun fact **"The first computer programmer was a woman, which is why computer languages are difficult to understand."**
+- ⚡ Fun fact **"Encryption is the secret love language of computers."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
