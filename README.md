@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kunaalnamdas@gmail.com**
 
-- 📄Explore my experiences [here](https://drive.google.com/file/d/1vcIvLAU3iVPOMTA4oXLKZ9UImZfpaepx/view).
+- 📄Explore my experiences [here](https://drive.google.com/file/d/1cvIUqLAMGEo8jCye3UH9TJFM8SK5sQ_S/view?usp=sharing).
 
 - ⚡ Fun fact **"Encryption is the secret love language of computers."**
 
